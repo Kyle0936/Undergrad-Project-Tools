@@ -180,7 +180,7 @@ JavaScript
 </table>
 
 ## Backend
-
+<table style="background-color: white; color: black;">
 <tr>
 <td>
 
@@ -214,7 +214,7 @@ JavaScript
 
 </td>
 </tr>
-
+</table>
 
 ## Design
 
