@@ -5,6 +5,7 @@
 - [General suggestions](#general-suggestions)
 - [Cross Platform App Development](#cross-platform-app-development)
 - [Web Development](#web-development)
+- [Backend](#backend)
 - [Design](#design)
 - [Project Management](#project-management)
 - [Contributing](#contributing)
@@ -177,6 +178,43 @@ JavaScript
 </tr>
 
 </table>
+
+## Backend
+
+<tr>
+<td>
+
+[Firebase](https://firebase.google.com)
+
+</td>
+<td>
+
+* Developed by Google
+* Free for small apps
+* Support apps on multiple platforms (Android, iOS, Unity, Web)
+* High-level backend management with a GUI
+* Super good for people to develop apps w/o backend knowledge
+* Various functions, including hosting web, storaging, relational DB
+* Easy connections with other google's products, such as Flutter and Google Cloud Platform
+* Not quite an active community (at least 2 years ago), hard to find hacky solutions in some special cases
+
+</td>
+</tr>
+<tr>
+<td>
+
+[Heroku](https://www.heroku.com)
+
+</td>
+<td>
+
+* Probably the most commonly used free server
+* Provides "hooks" to Github so that your web app will be updated automatically if you push changes to github
+* Various third-party apps, such as MangoDB, for backend development
+
+</td>
+</tr>
+
 
 ## Design
 
